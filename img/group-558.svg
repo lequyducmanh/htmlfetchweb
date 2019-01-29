@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131" height="61" viewBox="0 0 131 61">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}.cls-2{fill:#fff;font-size:14px;font-family:Catamaran-SemiBold,Catamaran;font-weight:600}.cls-3{filter:url(#Subtraction_3)}
+        </style>
+        <linearGradient id="linear-gradient" x1="1.24" x2="-.22" y1=".5" y2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#0d90a5"/>
+            <stop offset=".489" stop-color="#6cc6ba"/>
+            <stop offset="1" stop-color="#0d90a5"/>
+        </linearGradient>
+        <filter id="Subtraction_3" width="131" height="61" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset/>
+            <feGaussianBlur result="blur" stdDeviation="3.5"/>
+            <feFlood flood-opacity=".122"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Group_558" data-name="Group 558" transform="translate(-1384.5 -1141.5)">
+        <g class="cls-3" transform="translate(1384.5 1141.5)">
+            <path id="Subtraction_3-2" d="M137.523 107.461H41.981V85.543l14.355-18.082h95.646v21.787l-14.459 18.213z" class="cls-1" data-name="Subtraction 3" transform="translate(-31.48 -56.96)"/>
+        </g>
+        <text id="SEND" class="cls-2" transform="translate(1450 1177)">
+            <tspan x="-17.472" y="0">SEND</tspan>
+        </text>
+    </g>
+</svg>
